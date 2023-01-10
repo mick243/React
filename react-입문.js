@@ -1,10 +1,10 @@
 import React from 'react';
-import Hello from './Hello';
+import Hello from './hello';
 
 function App() {
   return (
     <div>
-      <Hello />
+      <hello />
     </div>
   );
 }
